@@ -1,6 +1,6 @@
 <!--TODO: Remove the section below after #93 is merged on 22 Dec 2025-->
 > [!CAUTION]
-> ⚠️⚠️⚠️ **Breaking Change in [PR #93](https://github.com/Ryan-Millard/Img2Num/pull/93)** ⚠️⚠️⚠️
+> ⚠️⚠️ **Breaking Change in [PR #93](https://github.com/Ryan-Millard/Img2Num/pull/93)** ⚠️⚠️
 > 
 > The Makefile behavior is changing soon.
 >
